@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Nth fibonacci",
+    "\\Nth fibonacci\\Nth fibonacci"
   ],
+  "SelectedNode": "\\Nth fibonacci\\Nth fibonacci\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
