@@ -1,0 +1,8 @@
+D:\C-sharp\twelde day lyrics\twelde day lyrics\bin\Debug\twelde day lyrics.exe.config
+D:\C-sharp\twelde day lyrics\twelde day lyrics\bin\Debug\twelde day lyrics.exe
+D:\C-sharp\twelde day lyrics\twelde day lyrics\bin\Debug\twelde day lyrics.pdb
+D:\C-sharp\twelde day lyrics\twelde day lyrics\obj\Debug\twelde day lyrics.csproj.AssemblyReference.cache
+D:\C-sharp\twelde day lyrics\twelde day lyrics\obj\Debug\twelde day lyrics.csproj.SuggestedBindingRedirects.cache
+D:\C-sharp\twelde day lyrics\twelde day lyrics\obj\Debug\twelde day lyrics.csproj.CoreCompileInputs.cache
+D:\C-sharp\twelde day lyrics\twelde day lyrics\obj\Debug\twelde day lyrics.exe
+D:\C-sharp\twelde day lyrics\twelde day lyrics\obj\Debug\twelde day lyrics.pdb
